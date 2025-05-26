@@ -32,12 +32,12 @@ const founders = [
     gradient: "from-purple-500 to-pink-500",
   },
   {
-    name: "Salma Gaye",
+    name: "Ilham Maaruf",
     title: "Chief Data Scientist",
     description:
       "Former Lead Data Scientist at Tesla with 12+ years in data analytics and predictive modeling.",
     image:
-      "https://res.cloudinary.com/dc5qncppu/image/upload/v1746365277/cyber_mkarrm.jpg",
+      "https://res.cloudinary.com/dc5qncppu/image/upload/v1748276042/1747071940377_mwdn27.jpg",
     linkedin: "#",
     twitter: "#",
     github: "#",
