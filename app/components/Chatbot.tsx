@@ -22,11 +22,11 @@ const knowledgeBase = {
   portfolio:
     "Our portfolio includes an AI-Powered Learning Management System, Machine Learning Fraud Detection System, GenAI Content Creation Platform, and Enterprise Email Marketing Platform.",
   founders:
-    "Our leadership team includes Dr. Alex Johnson (CEO), Sarah Chen (CTO), and Michael Rodriguez (Chief Data Scientist), with combined decades of experience from top tech companies.",
+    "Our leadership team includes Abdulhakim Ahmad (CEO), Adamu Abdullahi (CTO), and Ilham Maaruf (Chief Data Scientist), with combined decades of experience from top tech companies.",
   partners:
     "We collaborate with industry-leading technology partners including Google Cloud, AWS, Microsoft Azure, NVIDIA, OpenAI, Anthropic, Vercel, and MongoDB.",
   about:
-    "Founded in 2014, iOrbit Labs has been at the forefront of artificial intelligence innovation, helping businesses transform their operations through cutting-edge technology solutions.",
+    "Founded in 2019, iOrbit Labs has been at the forefront of artificial intelligence innovation, helping businesses transform their operations through cutting-edge technology solutions.",
   contact: "You can contact us through the form on our website or by sending an email to info@iorbitlabs.com.",
   mission:
     "Our mission is to democratize artificial intelligence and make advanced technology accessible to businesses of all sizes.",
