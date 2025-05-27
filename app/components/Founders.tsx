@@ -33,9 +33,9 @@ const founders = [
   },
   {
     name: "Ilham Maaruf",
-    title: "Chief Data Scientist",
+    title: "Content Creator/Social Media Manager",
     description:
-      "Former Lead Data Scientist at Tesla with 12+ years in data analytics and predictive modeling.",
+      "Content Creation & Social Media Management.",
     image:
       "https://res.cloudinary.com/dc5qncppu/image/upload/v1748276042/1747071940377_mwdn27.jpg",
     linkedin: "#",
